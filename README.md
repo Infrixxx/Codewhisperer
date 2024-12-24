@@ -56,8 +56,9 @@ I am an aeronautical engineering student, who has a passion for software develop
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@CodeWhisperer-bs9je?sub_confirmation=1)
 #
 
-<!--
+
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-Hello hello hello
--->
+  <summary>👨‍💻 Forrest's Coding Journey</summary>
+  
+  Hello hello hello
+</details>
