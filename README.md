@@ -37,3 +37,9 @@ What do they need to know about me.
 <br />
 
 #
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Mastering C: Building a Custom strcmp Function](https://ytcards.demolab.com/?https://youtu.be/4b0X26nsVlo?t=3&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Everything You NEED to Know about Docker")](https://youtu.be/4b0X26nsVlo?t=3)
+<!-- END YOUTUBE-CARDS -->
