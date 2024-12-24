@@ -1,3 +1,3 @@
 # Codewhisperer
 
-`Code advocate (Innovator / Content creator /Student)`
+**`Code advocate (Innovator / Content creator /Student)`**
