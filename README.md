@@ -1,20 +1,4 @@
-<h1 style="font-size: 3em; text-align: center; color: white; animation: glow 1.5s ease-in-out infinite;">
-   Code Whisperer
-</h1>
-
-<style>
-@keyframes glow {
-  0% {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff5733, 0 0 30px #ff5733, 0 0 40px #ff5733, 0 0 50px #ff5733, 0 0 60px #ff5733;
-  }
-  50% {
-    text-shadow: 0 0 10px #fff, 0 0 20px #ff7733, 0 0 30px #ff7733, 0 0 40px #ff7733, 0 0 50px #ff7733, 0 0 60px #ff7733, 0 0 70px #ff7733;
-  }
-  100% {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff5733, 0 0 30px #ff5733, 0 0 40px #ff5733, 0 0 50px #ff5733, 0 0 60px #ff5733;
-  }
-}
-</style>
+#Code Whisperer
 
 **`Code advocate (Innovator / Content creator /Student)`**
 
