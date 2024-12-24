@@ -52,5 +52,5 @@ What do they need to know about me.
 ![Code Whisperer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infrixxx&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ifrixxx&theme=gruvbox&border_radius=4.5) -->
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@CodeWhisperer-bs9je?sub_confirmation=1)
 #
