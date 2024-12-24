@@ -40,5 +40,5 @@ What do they need to know about me.
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Mastering C: Building a Custom strcmp Function](https://ytcards.demolab.com/?https://youtu.be/4b0X26nsVlo&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Mastering C: Building a Custom strcmp Function")](https://youtu.be/4b0X26nsVlo)
+[![Mastering C: Building a Custom strcmp Function](https://ytcards.demolab.com/?id=4b0X26nsVlo&title=Mastering+C%3A+Building+a+Custom+strcmp+Function&stats_color=%23dedede&background_color=%230d1117&title_color=%23ffffff)](https://youtu.be/4b0X26nsVlo)
 <!-- END YOUTUBE-CARDS -->
