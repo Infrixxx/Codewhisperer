@@ -42,3 +42,15 @@ What do they need to know about me.
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Mastering C: Building a Custom strcmp Function](https://ytcards.demolab.com/?id=4b0X26nsVlo&title=Mastering+C%3A+Building+a+Custom+strcmp+Function&stats_color=%23dedede&background_color=%230d1117&title_color=%23ffffff)](https://youtu.be/4b0X26nsVlo)
 <!-- END YOUTUBE-CARDS -->
+
+#
+
+
+
+### 📊 Stats
+
+![Code Whisperer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infrixxx&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Ifrixxx&theme=gruvbox&border_radius=4.5) -->
+
+#
