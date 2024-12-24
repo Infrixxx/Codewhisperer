@@ -1,4 +1,4 @@
-# Code Whisperer
+#🦁 Code Whisperer
 
 **`Code advocate (Innovator / Content creator /Student)`**
 
